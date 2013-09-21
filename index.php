@@ -118,7 +118,7 @@
 					</div>
 					<footer>
 						<p><?php $content->out( 'portfolio', 'footer-text' ); ?></p>
-						<a href="#portfolio" class="button button-big"><?php $content->out( 'portfolio', 'button' ); ?></a>
+						<a href="#contact" class="button button-big"><?php $content->out( 'portfolio', 'button' ); ?></a>
 					</footer>
 				</article>
 			</div>
